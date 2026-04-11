@@ -1,10 +1,2 @@
-## [YOU FOUND THE <img width="250px" align="center" src="assets/images/secret.png"> SOG HIDEOUT!!!](assets/audio/party.mp3)
-<img src="assets/images/sogs/sog1.webp" width="74">
-<img src="assets/images/sogs/sog2.webp" width="55">
-<img src="assets/images/sogs/sog3.webp" width="92">
-<img src="assets/images/sogs/sog4.webp" width="66">
-<img src="assets/images/sogs/sog5.webp" width="84">
-<img src="assets/images/sogs/sog6.webp" width="48">
-<img src="assets/images/sogs/sog7.webp" width="96">
-<img src="assets/images/sogs/sog8.webp" width="59">
-<img src="assets/images/sogs/sog9.webp" width="87">
+## [YOU FOUND THE <img width="250px" align="center" src="assets/images/secret.png"> SOG HIDEOUT!!!](https://github.com/sogful/sogful/raw/refs/heads/main/assets/audio/party.mp3?raw=true)
+<img src="assets/images/sogs/sog1.webp" width="74"><img src="assets/images/sogs/sog2.webp" width="55"><img src="assets/images/sogs/sog3.webp" width="92"><img src="assets/images/sogs/sog4.webp" width="66"><img src="assets/images/sogs/sog5.webp" width="84"><img src="assets/images/sogs/sog6.webp" width="48"><img src="assets/images/sogs/sog7.webp" width="96"><img src="assets/images/sogs/sog8.webp" width="59"><img src="assets/images/sogs/sog9.webp" width="87">
